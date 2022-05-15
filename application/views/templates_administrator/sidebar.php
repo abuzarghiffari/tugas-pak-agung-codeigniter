@@ -35,7 +35,7 @@
                     <div class="bg-white py-2 collapse-inner rounded">
                         <h6 class="collapse-header">Sub-Menu Akademik:</h6>
                         <a class="collapse-item" href="<?php echo base_url('administrator/jurusan') ?>">Jurusan</a>
-                        <a class="collapse-item" href="buttons.html">Program Studi</a>
+                        <a class="collapse-item" href="<?php echo base_url('administrator/prodi') ?>">Program Studi</a>
                         <a class="collapse-item" href="buttons.html">Mata Kuliah</a>
                         <a class="collapse-item" href="buttons.html">Mahasiswa</a>
                         <a class="collapse-item" href="buttons.html">KRS</a>
